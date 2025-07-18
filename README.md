@@ -12,3 +12,5 @@ Automatic merge failed; fix conflicts and then commit the result.
 #My First DevOps Project
 # my-first-devops-project
 >>>>>>> 5899ba4317b02237cfda6590c028cc2cf2aaf245
+>>>>>
+>>>>>hiii everyone
